@@ -10,9 +10,7 @@ require("channels")
 
 import 'bootstrap';
 
-import improveDropdown from '../components/select';
 
-improveDropdown();
 
 
 // Uncomment to copy all static images under ../images to the output folder and reference
